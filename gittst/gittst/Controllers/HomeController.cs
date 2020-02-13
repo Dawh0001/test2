@@ -13,7 +13,6 @@ namespace gittst.Controllers
         {
             ViewBag.h = "743";
             return View();
-            
         }
     }
 }
