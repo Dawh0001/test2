@@ -11,8 +11,9 @@ namespace gittst.Controllers
         // GET: Home
         public ActionResult Index()
         {
-            ViewBag.h = "32";
+            ViewBag.h = "43";
             return View();
+            
         }
     }
 }
